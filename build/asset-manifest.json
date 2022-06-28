@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/react-memory-card/static/css/main.67157e0d.css",
-    "main.js": "/react-memory-card/static/js/main.758c9a21.js",
+    "main.js": "/react-memory-card/static/js/main.4fe8a7da.js",
     "static/media/oracle.png": "/react-memory-card/static/media/oracle.41893cd47fda95c9d8ae.png",
     "static/media/dark_seer.png": "/react-memory-card/static/media/dark_seer.6365672ccf25db9b58ff.png",
     "static/media/earthshaker.png": "/react-memory-card/static/media/earthshaker.fe2c335d3d6315288eac.png",
@@ -27,10 +27,10 @@
     "static/media/logo.png": "/react-memory-card/static/media/logo.aa52d114655f91ce8f2c.png",
     "index.html": "/react-memory-card/index.html",
     "main.67157e0d.css.map": "/react-memory-card/static/css/main.67157e0d.css.map",
-    "main.758c9a21.js.map": "/react-memory-card/static/js/main.758c9a21.js.map"
+    "main.4fe8a7da.js.map": "/react-memory-card/static/js/main.4fe8a7da.js.map"
   },
   "entrypoints": [
     "static/css/main.67157e0d.css",
-    "static/js/main.758c9a21.js"
+    "static/js/main.4fe8a7da.js"
   ]
 }
