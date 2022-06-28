@@ -1,0 +1,62 @@
+@import url('https://fonts.googleapis.com/css2?family=Kosugi+Maru&display=swap');
+
+:root {
+  --primary: #110b0d;
+  --secondary: #66120d;
+  --text: #1a2832;
+}
+
+body {
+  font-family: 'Trajan Pro Bold', sans-serif;
+  margin: 0;
+}
+
+main {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  min-height: calc(100vh - 5rem);
+}
+
+.CardGrid {
+  color: var(--text);
+  margin: 0 16vw;
+  padding: 2rem 0;
+  height: auto;
+  box-sizing: border-box;
+  display: grid;
+  align-items: center;
+  justify-content: center; 
+  grid-template: repeat(2, 1fr) / repeat(6, 1fr);
+  gap: 1rem;
+}
+
+.Button {
+  font-family: 'Trajan Pro Bold', sans-serif;
+}
+
+@media screen and (max-width: 1200px) {
+  .CardGrid {
+    margin: 0 9vw;
+  }
+}
+
+@media screen and (max-width: 1024px) {
+  .CardGrid {
+    margin: 0 2vw;
+  }
+}
+
+@media screen and (max-width: 768px) {
+  .CardGrid {
+    margin: 0 8vw;
+    grid-template: repeat(3, 1fr) / repeat(4, 1fr);
+  }
+}
+
+@media screen and (max-width: 480px) {
+  .CardGrid {
+    margin: 0 1rem;
+    grid-template: repeat(4, 1fr) / repeat(3, 1fr);
+  }
+}
