@@ -10,7 +10,7 @@ const Instructions = () => {
         <div className='Modal'>
             <div className='Instructions'>
                 <h3>Dota 2 Memory Game</h3>
-                <p>Click on the cards to earn points. Click the same card twice and it is game over!</p>
+                <p>Click on as many unique cards as possible! If you choose a previously selected card, the score will reset!</p>
                 <button type='button' className='Button Start' onClick={handleClick}>Start</button>
             </div>
         </div>
