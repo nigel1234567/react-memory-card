@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/react-memory-card/static/css/main.67157e0d.css",
+    "main.js": "/react-memory-card/static/js/main.758c9a21.js",
+    "static/media/oracle.png": "/react-memory-card/static/media/oracle.41893cd47fda95c9d8ae.png",
+    "static/media/dark_seer.png": "/react-memory-card/static/media/dark_seer.6365672ccf25db9b58ff.png",
+    "static/media/earthshaker.png": "/react-memory-card/static/media/earthshaker.fe2c335d3d6315288eac.png",
+    "static/media/treant.png": "/react-memory-card/static/media/treant.5990f6c2f6ceaefa176c.png",
+    "static/media/bounty_hunter.png": "/react-memory-card/static/media/bounty_hunter.1bdb11a1ace28b309d7a.png",
+    "static/media/disruptor.png": "/react-memory-card/static/media/disruptor.409a1913f8c9c2f69c76.png",
+    "static/media/necrolyte.png": "/react-memory-card/static/media/necrolyte.c2a63a3cd69d26de1c0b.png",
+    "static/media/magnataur.png": "/react-memory-card/static/media/magnataur.ef8ec940465b932e7e5d.png",
+    "static/media/phoenix.png": "/react-memory-card/static/media/phoenix.a530dea7a9154ae8d08b.png",
+    "static/media/axe.png": "/react-memory-card/static/media/axe.3a2ea11b871d17cb8684.png",
+    "static/media/lina.png": "/react-memory-card/static/media/lina.a1b4ecd1ad6b5ea60e5c.png",
+    "static/media/kunkka.png": "/react-memory-card/static/media/kunkka.36eafddafbab385d8f00.png",
+    "static/media/witch_doctor.png": "/react-memory-card/static/media/witch_doctor.514b52a3b6307ba59767.png",
+    "static/media/mirana.png": "/react-memory-card/static/media/mirana.63b2d7f16a8f4b8bdb51.png",
+    "static/media/slardar.png": "/react-memory-card/static/media/slardar.c740cd134c937e3aa2d7.png",
+    "static/media/chaos_knight.png": "/react-memory-card/static/media/chaos_knight.3a0a1500405cea5d3ead.png",
+    "static/media/faceless_void.png": "/react-memory-card/static/media/faceless_void.30a6b3e8a2838f9c20dc.png",
+    "static/media/queenofpain.png": "/react-memory-card/static/media/queenofpain.83340a5bcce185e41ad3.png",
+    "static/media/ursa.png": "/react-memory-card/static/media/ursa.e6a7992750d3c10bf528.png",
+    "static/media/shadow_demon.png": "/react-memory-card/static/media/shadow_demon.143297bab6fed109c16f.png",
+    "static/media/invoker.png": "/react-memory-card/static/media/invoker.e7b68854387895fbb326.png",
+    "static/media/abaddon.png": "/react-memory-card/static/media/abaddon.f22c29baee37901c042a.png",
+    "static/media/logo.png": "/react-memory-card/static/media/logo.aa52d114655f91ce8f2c.png",
+    "index.html": "/react-memory-card/index.html",
+    "main.67157e0d.css.map": "/react-memory-card/static/css/main.67157e0d.css.map",
+    "main.758c9a21.js.map": "/react-memory-card/static/js/main.758c9a21.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.67157e0d.css",
+    "static/js/main.758c9a21.js"
+  ]
+}
